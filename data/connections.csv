@@ -1,0 +1,38 @@
+city_start, lat_start,lon_start, city_end, lat_end, lon_end, journal
+Abidjan, 5.3600,-4.0083, Dalao, 6.8883,-6.4397, Journal Marocain de Chimie Hétérocyclique
+Agadir,30.4278,-9.5981,Casablanca,33.5731,-7.5898, Journal Maghrébin des Sciences Pure & Appliquée
+Agadir,30.4278,	-9.5981,Dakar,	14.7167, -17.4677, Journal Marocain de Chimie Hétérocyclique
+Agadir,	30.4278,	-9.5981,	Kenitra,	34.2541,	-6.5890, "Moroccan Journal of Entrepreneurship, Innovation and Management"
+Ankara,	39.9334,	32.8597,	Kenitra,	34.2541,	-6.5890, Journal Marocain de Chimie Hétérocyclique
+Ankara,	39.9334,	32.8597,	Lille,	50.6292,	3.0573, Journal Marocain de Chimie Hétérocyclique
+Beni Mellal,	32.3424,	-6.3758,	Khouribga,	32.8860,	-6.9209, Revue Economie & Kapital
+Casablanca,	33.5731,	-7.5898,	Settat,	32.9924,-7.6223, Recherches et Applications en Finance Islamique (RAFI)
+Clermont-Ferrand,	45.7772,	3.0870,	Agadir,	30.4278,	-9.5981, Journal of Applied Surfaces and Interfaces
+Clermont-Ferrand,	45.7772,	3.0870,	Montpellier, 	43.6108,	3.8767, Journal of Applied Surfaces and Interfaces
+Dakar,	14.7167,	-17.4677,Fès,	34.0181, -5.0078, Journal Marocain de Chimie Hétérocyclique
+Dalao,	6.8883,	-6.4397,	Ankara,	39.9334,	32.8597, Journal Marocain de Chimie Hétérocyclique
+Douala,	4.0511,	9.7679,	Rabat,	33.9716,	-6.8498, Finance & Finance Internationale
+El Jadida,	33.2316,	-8.5007,	Rabat,	33.9716,	-6.8498, "Journal d’Economie, de Management, d’Environnement et de Droit"
+Fès,	34.0181,	-5.0078,	Taza,	34.2106, -3.9980, Journal Maghrébin des Sciences Pure & Appliquée
+Fès,	34.0181,	-5.0078,	Marrakech,	31.6295,	-7.9811, Journal Maghrébin des Sciences Pure & Appliquée
+Fès,	34.0181,	-5.0078,	Agadir,	30.4278, -9.5981,	Journal Marocain de Chimie Hétérocyclique
+Kenitra,	34.2541,	-6.5890,	Algiers,	36.7538,	3.0588, "Moroccan Journal of Entrepreneurship, Innovation and Management"
+Kenitra,	34.2541,	-6.5890,	Korhogo,	9.4669,	-5.6143, Journal Marocain de Chimie Hétérocyclique
+Kenitra,	34.2541,	-6.5890,	Rabat,	33.9716,	-6.8498,	"Revue Marocaine d’Urbanisme \n Moroccan Journal of Entrepreneurship, Innovation and Management \n Revue Marocaine de Protection des Plantes"
+Korhogo,	9.4669,	-5.6143,	Agadir,	30.4278,	-9.5981, Journal Marocain de Chimie Hétérocyclique
+Khouribga,	32.8860,	-6.9209,	Casablanca,	33.5731,	-7.5898, Revue Economie & Kapital
+Lille,	50.6292,3.0573,	Fès,	34.0181,	-5.0078, Journal Marocain de Chimie Hétérocyclique
+Maroua,	10.5925,	14.3210,	Ngaoundéré,	7.3381,	13.5668, "Moroccan Journal of Entrepreneurship, Innovation and Management"
+Meknes,	33.8730,	-5.5407,	Beni Mellal,	32.3424,	-6.3758, Journal Maghrébin des Sciences Pure & Appliquée
+Monastir,	35.7643,	 10.8113,	Lyon,	45.7719,	4.8902, Journal Marocain de Chimie Hétérocyclique
+Montpellier, 	43.6108,	3.8767,	Agadir,	30.4278,	-9.5981, Journal of Applied Surfaces and Interfaces
+Rabat,	33.9716,-6.8498,	Abidjan,	5.3600,	-4.0083, Journal Marocain de Chimie Hétérocyclique
+Rabat,	33.9716,	-6.8498,	Agadir,	30.4278,	-9.5981,	Journal Marocain de Chimie Hétérocyclique
+Rabat,	33.9716,	-6.8498,	Ankara,	39.9334,	32.8597, Journal Marocain de Chimie Hétérocyclique
+Rabat,	33.9716,	-6.8498,	Casablanca,	33.5731,	-7.5898, Journal Marocain de Chimie Hétérocyclique
+Rabat,	33.9716,-6.8498,	Fès,	34.0181,	-5.0078, "Recherches et Applications en Finance Islamique (RAFI) \n Journal Marocain de Chimie Hétérocyclique"
+Rabat,	33.9716,	-6.8498,	St John's,	47.5615,	-52.7126, "Journal Marocain de Chimie Hétérocyclique"
+Ségou,	13.4317,	-6.2482,	Bamako,	12.6392,	-8.0029, "Journal Maghrébin des Sciences Pure & Appliquée \n Revue Méditerranéenne des Télécommunications"
+Settat,	32.9924,	-7.6223,	Nice,	43.7102,	7.2620, "Revue Economie & Kapital"
+Taroudant,	30.4727,	-8.8749,	Casablanca,	33.5731,	-7.5898, "Journal Maghrébin des Sciences Pure & Appliquée"
+Yaoundé,	3.8480,	11.5021,	Ngaoundéré,	7.3381,	13.5668, "Moroccan Journal of Entrepreneurship, Innovation and Management"
